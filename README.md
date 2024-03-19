@@ -24,6 +24,7 @@ The Planet Application is an Android-based application that provides information
 3. Tap on a planet to view detailed information about it via a Toast message.
 
 ## Screenshots:
+![Screenshot 2024-03-19 220814](https://github.com/Vishnu-Jawalkar/PlanetApp/assets/127928260/3b485258-2ace-4b04-9815-b4bec145f976)
 
 
 
